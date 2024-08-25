@@ -1,6 +1,7 @@
 import re
 
 # Get text from text.txt file
+# regex
 with open('text.txt', 'r') as f:
     text = f.read()
 
